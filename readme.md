@@ -428,7 +428,7 @@ Add the following just after the existing line for `home_router`
 
 ### 2.3.5. A page to display the todo list items
 
-the default todo route `/` passes `todoList` to **`/app/view_templates/todo.html`**. This page template works like previous examples. 
+the default todo route `/` passes `todoList` to **`/app/view_templates/todos.html`**. This page template works like previous examples. 
 
 Here is the code - notice that the htmx attributes on the form element used to add new todo items - these will be discussed the next part.
 
